@@ -38,6 +38,6 @@ public class MainActivity extends AppCompatActivity {
         w.setDisplayZoomControls(false);
         webView.clearCache(true);
         webView.setInitialScale(90);
-        webView.loadUrl("http://192.168.50.171:8080");
+        webView.loadUrl("https://smsoss.github.io/DeStressOSS/");
     }
 }
